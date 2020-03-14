@@ -8,17 +8,17 @@
   padding: 0 10px;
   position: relative;
 }
-.section-padding{
-  padding: 60px 0!important;
+.section-padding {
+  padding: 60px 0 !important;
 }
-.controls{
-	padding: 0px!important;
+.controls {
+  padding: 0px !important;
 }
-#about{
-	background: #F6F6F6;
+#about {
+  background: #f6f6f6;
 }
-#team{
-	background: #F6F6F6;
+#team {
+  background: #f6f6f6;
 }
 .form-control:focus {
   box-shadow: none;
@@ -58,11 +58,13 @@ a a:focus {
   color: #585b60 !important;
   margin-top: 0px !important;
   margin-bottom: 0px !important;
+  font-size: larger;
 }
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
   cursor: pointer;
   color: #2f3892 !important;
+  font-size: larger;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
@@ -92,6 +94,7 @@ a a:focus {
 .navbar-expand-lg .navbar-nav .nav-link:focus,
 .navbar-expand-lg .navbar-nav .nav-link:hover {
   color: #2f3892 !important;
+  font-size: larger;
 }
 
 .navbar {
@@ -152,7 +155,7 @@ a a:focus {
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
-    color: #FD6E74;
+    color: #fd6e74;
     outline: none;
     background: #f8f9fa;
   }
@@ -177,7 +180,7 @@ a a:focus {
     display: block;
   }
   .slicknav_nav .active a {
-    background: #E91E63;
+    background: #e91e63;
     color: #fff;
   }
   .slicknav_nav a:hover,
@@ -214,7 +217,8 @@ a.back-to-top i {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 0 4px 8px rgba(0, 0, 0, 0.28);
 }
 
-a.back-to-top:hover, a.back-to-top:focus {
+a.back-to-top:hover,
+a.back-to-top:focus {
   text-decoration: none;
 }
 
@@ -238,7 +242,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   margin: 0 auto;
 }
 
-#loader-1:before, #loader-1:after {
+#loader-1:before,
+#loader-1:after {
   content: "";
   position: absolute;
   top: -10px;
@@ -285,7 +290,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #portfolio {
-  background: #F6F6F6;
+  background: #f6f6f6;
   width: 100%;
 }
 
@@ -303,7 +308,8 @@ a:not([href]):not([tabindex]) {
   color: #222;
 }
 
-a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
+a:focus:not([href]):not([tabindex]),
+a:hover:not([href]):not([tabindex]) {
   color: #fff;
 }
 .controls .active {
