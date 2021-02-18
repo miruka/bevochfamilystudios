@@ -2181,7 +2181,7 @@ nav#menu span.fa.fa-bars:hover {
 /* / End About */
 /* Start Tesitmonial  */
 .single-testimonial-area {
-  background-image: url(../img/about/testimonial-bg.jpg);
+  background-image: url(../img/about/testimonial1.jpg);
   background-size: cover;
   padding: 60px 0;
 }
@@ -2893,9 +2893,9 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 /*  End Progress Bars */
-/* Caounter Style */
+/* Counter Style */
 #counter {
-  background-image: url(../img/about/testimonial-bg.jpg);
+  background-image: url(../img/about/testimonial2.jpg);
   background-size: cover;
   padding: 60px 0;
 }

@@ -399,7 +399,7 @@ require_once 'php/init.php';
               All
             </a>
             <a class="filter btn btn-common" data-filter=".branding">
-              Tshirt Branding
+              Branding
             </a>
             <a class="filter btn btn-common" data-filter=".marketing">
               Video Shooting
@@ -562,7 +562,7 @@ require_once 'php/init.php';
   <!-- Portfolio Section Ends -->
 
   <!-- Feature Section Start -->
-  <div id="feature" class="section-padding">
+  <section id="feature" class="section-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -690,7 +690,7 @@ require_once 'php/init.php';
         <!-- End featured -->
       </div>
     </div>
-  </div>
+  </section>
   <!-- Feature Section End -->
 
   <!-- facts Section Start -->
@@ -706,7 +706,7 @@ require_once 'php/init.php';
 
         <div class="col-lg-3 col-md-6 col-xs-12 count-one">
           <span class="icon"><i class="fa fa-user"> </i></span>
-          <h3 class="timer count-value" data-to="950" data-speed="1000">950</h3>
+          <h3 class="timer count-value" data-to="3950" data-speed="1000">950</h3>
           <hr class="width25-divider" />
           <small class="count-title">Photographs</small>
         </div>
