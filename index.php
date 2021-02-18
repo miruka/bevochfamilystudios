@@ -10,6 +10,7 @@ require_once 'php/init.php';
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <title>Bevoch Family Studios</title>
+  <link rel="shortcut icon" type="image/jpg" href="img/favicon.ico" />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
