@@ -155,10 +155,11 @@ require_once 'php/init.php';
                 <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-slider" data-slide-to="1"></li>
                 <li data-target="#carousel-slider" data-slide-to="2"></li>
+                <li data-target="#carousel-slider" data-slide-to="3"></li>
               </ol>
               <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                  <img src="img/slider/bg-1.jpg" alt="" />
+                  <img src="img/slider/rsz_1bg-1.jpg" alt="" />
                   <div class="carousel-caption">
                     <h3 class="slide-title animated fadeInDown"><span>Bevoch</span> Family Studios</h3>
                     <h5 class="slide-text animated fadeIn">
@@ -169,7 +170,7 @@ require_once 'php/init.php';
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <img src="img/slider/bg-2.jpg" alt="" />
+                  <img src="img/slider/rsz_23bg-2.jpg" alt="" />
                   <div class="carousel-caption">
                     <h3 class="slide-title animated fadeInDown"><span>Cutting-Edge</span> Photography</h3>
                     <h5 class="slide-text animated fadeIn">
@@ -181,6 +182,18 @@ require_once 'php/init.php';
                 </div>
                 <div class="carousel-item">
                   <img src="img/slider/bg-3.jpg" alt="" />
+                  <div class="carousel-caption">
+                    <h3 class="slide-title animated fadeInDown"><span>Video </span> Productions</h3>
+                    <h5 class="slide-text animated fadeIn">
+                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit<br />
+                      Curabitur ultricies nisi Nam eget dui. Etiam rhoncus
+                    </h5>
+                    <!--<a href="#" class="btn btn-lg btn-border animated fadeInUp">Get Started</a>
+                    <a href="#" class="btn btn-lg btn-common animated fadeInUp">Download</a>-->
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <img src="img/slider/aaaa.jpg" alt="" />
                   <div class="carousel-caption">
                     <h3 class="slide-title animated fadeInDown"><span>Video </span> Productions</h3>
                     <h5 class="slide-text animated fadeIn">
@@ -214,16 +227,18 @@ require_once 'php/init.php';
       <div class="row">
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="about block text-center">
-            <img src="img/about/img1.png" alt="" />
+            <img src="img/about/rsz_established.jpg" alt="" />
             <h5><a href="#">Established</a></h5>
-            <p>Quisque sit amet libero purus. Nulla a dignissim quam. In hac habitasse platea dictumst.</p>
+            <p>Established on the vision,mission and values that an ongoing process of customer satisfaction to ensure that
+              we are still relevant for the current challenges and environment.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="about block text-center">
-            <img src="img/about/img2.png" alt="" />
+            <img src="img/about/rsz_cust-satis.jpg" alt="" />
             <h5><a href="#">Customer Satisfaction</a></h5>
-            <p>Quisque sit amet libero purus. Nulla a dignissim quam. In hac habitasse platea dictumst.</p>
+            <p>With growing competition,Bevoch Family Studios critically and strategically thinks about its customers and identify what they want.
+              Thereafter, it is essential to prepare content that completely aligns with the existing demands of the customers</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-xs-12">
@@ -705,7 +720,7 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <!-- Team Item Starts -->
           <figure>
-            <img src="img/team/team-06.jpg" alt="" />
+            <img src="img/team/rsz_kevinwambua.png" alt="" />
             <div class="image-overlay">
               <div class="overlay-text text-center">
                 <div class="info-text">
@@ -733,7 +748,7 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <!-- Team Item Starts -->
           <figure>
-            <img src="img/team/team-07.jpg" alt="" />
+            <img src="img/team/rsz_keith.png" alt="" />
             <div class="image-overlay">
               <div class="overlay-text text-center">
                 <div class="info-text">
