@@ -16,6 +16,7 @@ require_once 'php/init.php';
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
   <!-- Font -->
   <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" /> -->
   <!-- Slicknav -->
   <link rel="stylesheet" type="text/css" href="css/slicknav.css" />
   <!-- Owl carousel -->
@@ -274,12 +275,16 @@ require_once 'php/init.php';
         <div class="col-md-6 col-lg-4 col-xs-12">
           <div class="service-box">
             <div class="service-icon">
-              <i class="fa fa-cogs"></i>
+              <i class="fa fa-video-camera" aria-hidden="true"></i>
             </div>
             <div class="service-content">
               <h4><a href="#">Video Productions</a></h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur vero error excepturi.
+                Our crew goes where it’s needed.Your latest conference, the next wedding, Funeral for a Loved One,
+                Your upcoming public events address,
+                Your fundraising event, Your new product announcement, Your Charity giveaway, etc.
+                From multi-day event video coverage to one-and-done film shoots,
+                we’re ready to produce, film and edit videos for you.
               </p>
             </div>
           </div>
@@ -290,12 +295,16 @@ require_once 'php/init.php';
         <div class="col-md-6 col-lg-4 col-xs-12">
           <div class="service-box">
             <div class="service-icon">
-              <i class="fa fa-cubes"></i>
+              <i class="fa fa-camera-retro" aria-hidden="true"></i>
             </div>
             <div class="service-content">
-              <h4><a href="#">Photography</a></h4>
+              <h4><a href="#">Custom Photography</a></h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur vero error excepturi.
+                Custom photography designed to your brand. Our creative crew has years of experience in custom photography for personal use,
+                marketing, including technology product shots, executive portraits,
+                in-house food styling and photo shoots for weddings,
+                and consumer goods product shots for business.
+                We create, process and print on you desired medium.
               </p>
             </div>
           </div>
@@ -303,7 +312,7 @@ require_once 'php/init.php';
         <!-- End Service Icon 2 -->
 
         <!-- Start Service Icon 3 -->
-        <div class="col-md-6 col-lg-4 col-xs-12">
+        <!-- <div class="col-md-6 col-lg-4 col-xs-12">
           <div class="service-box">
             <div class="service-icon">
               <i class="fa fa-tachometer"></i>
@@ -315,11 +324,11 @@ require_once 'php/init.php';
               </p>
             </div>
           </div>
-        </div>
+        </div> -->
         <!-- End Service Icon 3 -->
 
         <!-- Start Service Icon 4 -->
-        <div class="col-md-6 col-lg-4 col-xs-12">
+        <!-- <div class="col-md-6 col-lg-4 col-xs-12">
           <div class="service-box">
             <div class="service-icon">
               <i class="fa fa-check"></i>
@@ -331,7 +340,7 @@ require_once 'php/init.php';
               </p>
             </div>
           </div>
-        </div>
+        </div> -->
         <!-- End Service Icon 4 -->
 
         <!-- Start Service Icon 5 -->
@@ -343,7 +352,10 @@ require_once 'php/init.php';
             <div class="service-content">
               <h4><a href="#">Public Address Systems</a></h4>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur vero error excepturi.
+                Bevoch Family Studios rents and leases quality and cost-effectiveness P.A service.
+                A superb P.A system service provides a quality experience that exites everyone.
+                We offer right the equipment prepared to give value for your money and quality comes with the price.
+                You get quality service that meets your expectations without going too deep in your pocket.
               </p>
             </div>
           </div>
@@ -351,10 +363,10 @@ require_once 'php/init.php';
         <!-- End Service Icon 5 -->
 
         <!-- Start Service Icon 6 -->
-        <div class="col-md-6 col-lg-4 col-xs-12">
+        <!-- <div class="col-md-6 col-lg-4 col-xs-12">
           <div class="service-box">
             <div class="service-icon">
-              <i class="fa fa-hand-pointer-o"></i>
+              <i class="fa fa-id-card-o" aria-hidden="true"></i>
             </div>
             <div class="service-content">
               <h4><a href="#">Passport Services</a></h4>
@@ -363,7 +375,7 @@ require_once 'php/init.php';
               </p>
             </div>
           </div>
-        </div>
+        </div> -->
         <!-- End Service Icon 6 -->
       </div>
     </div>
@@ -562,11 +574,15 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="featured-box-item">
             <div class="featured-icon">
-              <i class="fa fa-bolt"></i>
+              <i class="fa fa-camera" aria-hidden="true"></i>
             </div>
             <div class="featured-content">
-              <h4>Personal Photo Sessions</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua.</p>
+              <h4> Photo Sessions</h4>
+              <li>&bull; Personal Potrait Sessions</li>
+              <li>&bull; Baby Shower Sessions</li>
+              <li>&bull; Lovers Sessions(NO NUDE PHOTOGRAPHY)</li>
+              <li>&bull; Group Sessions</li>
+              <li>&bull; Schools Passport Sessions</li>
             </div>
           </div>
         </div>
@@ -576,11 +592,13 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="featured-box-item">
             <div class="featured-icon">
-              <i class="fa fa-diamond"></i>
+              <i class="fa fa-microchip" aria-hidden="true"></i>
             </div>
             <div class="featured-content">
-              <h4>Wedding Card Designs</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua.</p>
+              <h4>Computer Repair and Maintenance</h4>
+              <li>&bull; RAM & Hard Disk Installations</li>
+              <li>&bull; Laptop & Desktop Repair</li>
+
             </div>
           </div>
         </div>
@@ -590,11 +608,15 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="featured-box-item">
             <div class="featured-icon">
-              <i class="fa fa-cubes"></i>
+              <i class="fa fa-code" aria-hidden="true"></i>
+
             </div>
             <div class="featured-content">
-              <h4>Web Design</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua.</p>
+              <h4>Web Design & Development</h4>
+              <li>&bull; Personal Porfolio Websites</li>
+              <li>&bull; Business Websites</li>
+
+
             </div>
           </div>
         </div>
@@ -604,11 +626,21 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="featured-box-item">
             <div class="featured-icon">
-              <i class="fa fa-cogs"></i>
+              <i class="fa fa-id-card" aria-hidden="true"></i>
+
+
             </div>
             <div class="featured-content">
-              <h4>Customizable Cards</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua.</p>
+              <h4>Customizable Cards and Banners</h4>
+
+              <ul>
+                <li>&bull; Business Cards</li>
+                <li>&bull; Wedding Cards</li>
+                <li>&bull; Contribution Cards</li>
+                <li>&bull; Posters and Banners of any Size</li>
+                <li>&bull; Pamplets and Brochures</li>
+                <li>&bull; Manuals</li>
+              </ul>
             </div>
           </div>
         </div>
@@ -618,11 +650,19 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="featured-box-item">
             <div class="featured-icon">
-              <i class="fa fa-check"></i>
+              <i class="fa fa-shirtsinbulk" aria-hidden="true"></i>
             </div>
             <div class="featured-content">
-              <h4>T-Shirt Branding</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua.</p>
+              <h4>Branding</h4>
+              <ul>
+                <li>&bull; Promotion T-Shirts</li>
+                <li>&bull; Paper Bag Branding</li>
+                <li>&bull; Hankerchiefs Branding</li>
+                <li>&bull; Hankerchiefs Branding</li>
+                <li>&bull; Mugs and Cup Branding</li>
+
+
+              </ul>
             </div>
           </div>
         </div>
@@ -632,11 +672,18 @@ require_once 'php/init.php';
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="featured-box-item">
             <div class="featured-icon">
-              <i class="fa fa-cloud"></i>
+              <i class="fa fa-desktop" aria-hidden="true"></i>
             </div>
             <div class="featured-content">
               <h4>Software Installations</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua.</p>
+              <ul>
+                <li>&bull; Microsoft Office Products</li>
+                <li>&bull; Adobe Products e.g Photoshop</li>
+                <li>&bull; Other Specialised Softwares</li>
+                <li>&bull; Updating Softwares</li>
+                <li>&bull; Antivirus Installation</li>
+                <li>&bull; Software Maintenance</li>
+              </ul>
             </div>
           </div>
         </div>
