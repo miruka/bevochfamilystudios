@@ -402,7 +402,7 @@ require_once 'php/init.php';
               Branding
             </a>
             <a class="filter btn btn-common" data-filter=".marketing">
-              Video Shooting
+              Our Brands
             </a>
             <!--<a class="filter btn btn-common" data-filter=".planning">
               Planning
@@ -419,7 +419,7 @@ require_once 'php/init.php';
           <div class="col-lg-4 col-md-6 col-xs-12 mix marketing planning">
             <div class="portfolio-item">
               <div class="portfolio-img">
-                <img src="img/portfolio/img1.jpg" alt="" />
+                <img src="img/portfolio/rsz_branded-t-shirt-3.jpg" alt="" />
               </div>
               <div class="portfoli-content">
                 <div class="sup-desc-wrap">
@@ -430,9 +430,9 @@ require_once 'php/init.php';
                     </div>
                     <div class="sup-meta-wrap">
                       <a class="sup-title" href="#">
-                        <h4>TITLE HERE</h4>
+                        <h4>T-SHIRT BRANDING</h4>
                       </a>
-                      <p class="sup-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente vel quisquam.</p>
+                      <p class="sup-description">Be Patriotic! We brand Kenyan Products</p>
                     </div>
                   </div>
                 </div>
@@ -442,7 +442,7 @@ require_once 'php/init.php';
           <div class="col-lg-4 col-md-6 col-xs-12 mix branding planning">
             <div class="portfolio-item">
               <div class="portfolio-img">
-                <img src="img/portfolio/img2.jpg" alt="" />
+                <img src="img/portfolio/hankerchief5.jpeg" alt="" />
               </div>
               <div class="portfoli-content">
                 <div class="sup-desc-wrap">
@@ -453,9 +453,9 @@ require_once 'php/init.php';
                     </div>
                     <div class="sup-meta-wrap">
                       <a class="sup-title" href="#">
-                        <h4>TITLE HERE</h4>
+                        <h4>LESO PRINTING</h4>
                       </a>
-                      <p class="sup-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente vel quisquam.</p>
+                      <p class="sup-description">Love Indegenous Kenyan! We do it!</p>
                     </div>
                   </div>
                 </div>
@@ -465,7 +465,7 @@ require_once 'php/init.php';
           <div class="col-lg-4 col-md-6 col-xs-12 mix branding research">
             <div class="portfolio-item">
               <div class="portfolio-img">
-                <img src="img/portfolio/img3.jpg" alt="" />
+                <img src="img/portfolio/rsz_mug2.jpg" alt="" />
               </div>
               <div class="portfoli-content">
                 <div class="sup-desc-wrap">
@@ -476,9 +476,9 @@ require_once 'php/init.php';
                     </div>
                     <div class="sup-meta-wrap">
                       <a class="sup-title" href="#">
-                        <h4>TITLE HERE</h4>
+                        <h4>CUP BRANDING</h4>
                       </a>
-                      <p class="sup-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente vel quisquam.</p>
+                      <p class="sup-description">We print cups any design you want no matter how many they are. We do it!!.</p>
                     </div>
                   </div>
                 </div>
@@ -488,7 +488,7 @@ require_once 'php/init.php';
           <div class="col-lg-4 col-md-6 col-xs-12 mix marketing research">
             <div class="portfolio-item">
               <div class="portfolio-img">
-                <img src="img/portfolio/img4.jpg" alt="" />
+                <img src="img/portfolio/rsz_paperbag3.png" alt="" />
               </div>
               <div class="portfoli-content">
                 <div class="sup-desc-wrap">
@@ -499,9 +499,9 @@ require_once 'php/init.php';
                     </div>
                     <div class="sup-meta-wrap">
                       <a class="sup-title" href="#">
-                        <h4>TITLE HERE</h4>
+                        <h4>BROWN BAGS BRANDING</h4>
                       </a>
-                      <p class="sup-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente vel quisquam.</p>
+                      <p class="sup-description">Welcome to our Speciality Section. We Label brown bags for business, hotels and mimi marts</p>
                     </div>
                   </div>
                 </div>
@@ -511,7 +511,7 @@ require_once 'php/init.php';
           <div class="col-lg-4 col-md-6 col-xs-12 mix marketing planning">
             <div class="portfolio-item">
               <div class="portfolio-img">
-                <img src="img/portfolio/img5.jpg" alt="" />
+                <img src="img/portfolio/rsz_wovenbag2.jpg" alt="" />
               </div>
               <div class="portfoli-content">
                 <div class="sup-desc-wrap">
@@ -522,9 +522,9 @@ require_once 'php/init.php';
                     </div>
                     <div class="sup-meta-wrap">
                       <a class="sup-title" href="#">
-                        <h4>TITLE HERE</h4>
+                        <h4>WOVEN BAGS BRANDING</h4>
                       </a>
-                      <p class="sup-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente vel quisquam.</p>
+                      <p class="sup-description">Do you have give aways and you wish to package then in nice woven bags.We are the guys to do it.</p>
                     </div>
                   </div>
                 </div>
@@ -534,7 +534,7 @@ require_once 'php/init.php';
           <div class="col-lg-4 col-md-6 col-xs-12 mix planning research">
             <div class="portfolio-item">
               <div class="portfolio-img">
-                <img src="img/portfolio/img6.jpg" alt="" />
+                <img src="img/portfolio/mug4.jpeg" alt="" />
               </div>
               <div class="portfoli-content">
                 <div class="sup-desc-wrap">
@@ -545,9 +545,9 @@ require_once 'php/init.php';
                     </div>
                     <div class="sup-meta-wrap">
                       <a class="sup-title" href="#">
-                        <h4>TITLE HERE</h4>
+                        <h4>MUGS BRANDING</h4>
                       </a>
-                      <p class="sup-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente vel quisquam.</p>
+                      <p class="sup-description">Any size of Mug, come we print them</p>
                     </div>
                   </div>
                 </div>
@@ -637,7 +637,7 @@ require_once 'php/init.php';
                 <li>&bull; Business Cards</li>
                 <li>&bull; Wedding Cards</li>
                 <li>&bull; Contribution Cards</li>
-                <li>&bull; Posters and Banners of any Size</li>
+                <li>&bull; Posters and Banners</li>
                 <li>&bull; Pamplets and Brochures</li>
                 <li>&bull; Manuals</li>
               </ul>
@@ -656,9 +656,9 @@ require_once 'php/init.php';
               <h4>Branding</h4>
               <ul>
                 <li>&bull; Promotion T-Shirts</li>
-                <li>&bull; Paper Bag Branding</li>
-                <li>&bull; Hankerchiefs Branding</li>
-                <li>&bull; Hankerchiefs Branding</li>
+                <li>&bull; Brown Bags Branding</li>
+                <li>&bull; Woven Bags Branding</li>
+                <li>&bull; Leso Branding</li>
                 <li>&bull; Mugs and Cup Branding</li>
 
 
@@ -855,7 +855,7 @@ require_once 'php/init.php';
               </ul>
             </div>
             <div class="plan-signup">
-              <a href="#" class="btn btn-common">Get Started</a>
+              <a href="#" class="btn btn-common">Enquire</a>
             </div>
           </div>
         </div>
@@ -881,7 +881,7 @@ require_once 'php/init.php';
               </ul>
             </div>
             <div class="plan-signup">
-              <a href="#" class="btn btn-common">Get Started</a>
+              <a href="#" class="btn btn-common">Enquire</a>
             </div>
           </div>
         </div>
@@ -908,7 +908,7 @@ require_once 'php/init.php';
               </ul>
             </div>
             <div class="plan-signup">
-              <a href="#" class="btn btn-common">Get Started</a>
+              <a href="#" class="btn btn-common">Enquire</a>
             </div>
           </div>
         </div>
@@ -931,12 +931,12 @@ require_once 'php/init.php';
             <div class="col-lg-8 col-md-12 col-xs-12 col-md-auto">
               <div class="testimonial-inner text-md-center">
                 <blockquote>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure
-                  reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate
-                  repellendus magni nihil molestiae quam, delectus
+                  Kennedy of Bevoch Studios is truly an outstanding photographer and wonderful person with an i
+                  mmense ability to capture the true nature of people and events.
+                  I'd recommend him to anyone!
                 </blockquote>
                 <div class="testimonial-images">
-                  <img class="img-circle text-md-center" src="img/testimonial/img1.jpg" alt="" />
+                  <img class="img-circle text-md-center" src="img/testimonial/rsz_120200630_115430.jpg" alt="" />
                 </div>
                 <div class="testimonial-footer">
                   <i class="fa fa-user"></i> Christopher
@@ -953,12 +953,17 @@ require_once 'php/init.php';
             <div class="col-lg-8 col-md-12 col-xs-12 col-md-auto">
               <div class="testimonial-inner text-md-center">
                 <blockquote>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure
-                  reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate
-                  repellendus magni nihil molestiae quam, delectus
+
+                  “Just wanted to say that we are so happy from the first contact with Bevoch Family Studios
+                  showing us all you different designs to the help with the design / writing on the bag and the very polite
+                  and helpful delivery man Mark. Our customers are over the moon to be given the bag and
+                  have told us how impressed they are with the quality of it.
+                  We would use you again (that would be the 4th time) and would recommend your Company to anyone.”
+
+
                 </blockquote>
                 <div class="testimonial-images">
-                  <img class="img-circle text-md-center" src="img/testimonial/img2.jpg" alt="" />
+                  <img class="img-circle text-md-center" src="img/testimonial/Bishop Mala.jpeg" alt="" />
                 </div>
                 <div class="testimonial-footer">
                   <i class="fa fa-user"></i> Pst
@@ -975,14 +980,18 @@ require_once 'php/init.php';
             <div class="col-lg-8 col-md-12 col-xs-12 col-md-auto">
               <div class="testimonial-inner text-md-center">
                 <blockquote>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ipsam, non ut molestiae rerum praesentium repellat debitis iure
-                  reiciendis, eius culpa beatae commodi facere ad numquam. Quisquam dignissimos similique sunt iure fugit, omnis vel cupiditate
-                  repellendus magni nihil molestiae quam, delectus
+                  Thank you so much for everything you did for us at our wedding.
+                  You and Crew were an indispensable source of knowledge on the day of,
+                  and events leading up to the wedding, in addition to providing us with amazing photos.
+                  Video Coverage isn't something we would have prioritized had we been left to our own devices,
+                  but now we see what a mistake that would have been. And although we are both very private people,
+                  sharing those special moments with the two of you, and trusting your professional judgement, yielded some awesome results.
+                  Thank you for being there to preserve our memories, it truly means the world to us now. With Gratitude
                 </blockquote>
                 <div class="testimonial-images">
                   <img class="img-circle text-md-center" src="img/testimonial/img3.jpg" alt="" />
                 </div>
-                <div class="testimonial-footer"><i class="fa fa-user"></i> Elon Musk<a href="#"> Tesla</a></div>
+                <div class="testimonial-footer"><i class="fa fa-user"></i> Dan and Marisa<a href="#"> Tesla</a></div>
               </div>
             </div>
           </div>
@@ -1048,7 +1057,7 @@ require_once 'php/init.php';
               <a href="tel:254728622858"><i class="lni-mobile icons cyan-color contact-info-icon"></i>+254 716 645 112</a>
               <a href="tel:+61(8)82343555"><i class="lni-phone icons cyan-color contact-info-icon"></i>+254 711 229 960</a>
             </div>
-            <a href="mailto:hello@spiritapp.com"><i class="lni-envelope icons cyan-color contact-info-icon"></i>info@bevochfamilystudio.co.ke</a>
+            <a href="mailto:hello@spiritapp.com"><i class="lni-envelope icons cyan-color contact-info-icon"></i>info@bevochfamilystudios.co.ke</a>
             <a href="#"><i class="lni-tab icons cyan-color contact-info-icon"></i></a>
             <ul class="social-links">
               <li>
@@ -1083,8 +1092,7 @@ require_once 'php/init.php';
             About Us
           </h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis veritatis eius porro modi hic. Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
+            An establish Video and Photograhy Company since 2010 with other services being offered on request
           </p>
           <div class="social-footer">
             <a href="#"><i class="fa fa-facebook icon-round"></i></a>
@@ -1154,7 +1162,7 @@ require_once 'php/init.php';
       <div class="container">
         <div class="row">
           <div class="col-lg-6 col-md-6 col-xs-12">
-            <p class="copyright-text">All copyrights reserved © 2019 - Designed &amp; Developed by<a rel="nofollow">Christopher M.</a></p>
+            <p class="copyright-text">All copyrights reserved © 2021 - Designed &amp; Developed by<a rel="nofollow"> Christopher Miruka.</a></p>
           </div>
           <div class="col-lg-6 col-md-6 col-xs-12">
             <ul class="nav nav-inline  justify-content-end ">
