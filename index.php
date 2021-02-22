@@ -1,6 +1,6 @@
-<?php
-require_once 'php/init.php';
-?>
+<!-- <?php
+      require_once 'php/init.php';
+      ?> -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -176,8 +176,8 @@ require_once 'php/init.php';
                   <div class="carousel-caption">
                     <h3 class="slide-title animated fadeInDown"><span>Cutting-Edge</span> Photography</h3>
                     <h5 class="slide-text animated fadeIn">
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit<br />
-                      Curabitur ultricies nisi Nam eget dui. Etiam rhoncus
+                      Incredible PHOTOS and with quick turnaround.<br />
+                      Experiencing Beautiful Moments Capturing Amazing Pictures
                     </h5>
                     <!-- <a href="#" class="btn btn-lg btn-common animated fadeInUp">Download Now</a>-->
                   </div>
@@ -187,14 +187,14 @@ require_once 'php/init.php';
                   <div class="carousel-caption">
                     <h3 class="slide-title animated fadeInDown"><span>Video </span> Productions</h3>
                     <h5 class="slide-text animated fadeIn">
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit<br />
-                      Curabitur ultricies nisi Nam eget dui. Etiam rhoncus
+                      Professional Creative Thoughts with Amazing Quality<br />
+                      We are always Flexible and work within Budget
                     </h5>
                     <!--<a href="#" class="btn btn-lg btn-border animated fadeInUp">Get Started</a>
                     <a href="#" class="btn btn-lg btn-common animated fadeInUp">Download</a>-->
                   </div>
                 </div>
-                <div class="carousel-item">
+                <!-- <div class="carousel-item">
                   <img src="img/slider/aaaa.jpg" alt="" />
                   <div class="carousel-caption">
                     <h3 class="slide-title animated fadeInDown"><span>Video </span> Productions</h3>
@@ -204,19 +204,19 @@ require_once 'php/init.php';
                     </h5>
                     <!--<a href="#" class="btn btn-lg btn-border animated fadeInUp">Get Started</a>
                     <a href="#" class="btn btn-lg btn-common animated fadeInUp">Download</a>-->
-                  </div>
-                </div>
               </div>
-              <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
-                <i class="fa fa-chevron-left"></i>
-              </a>
-              <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
-                <i class="fa fa-chevron-right"></i>
-              </a>
-            </div>
+            </div> -->
           </div>
+          <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
+            <i class="fa fa-chevron-left"></i>
+          </a>
+          <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
+            <i class="fa fa-chevron-right"></i>
+          </a>
         </div>
       </div>
+    </div>
+    </div>
     </div>
     <!-- End sliders -->
   </header>
